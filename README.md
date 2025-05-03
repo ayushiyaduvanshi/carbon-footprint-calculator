@@ -1,4 +1,4 @@
-# 🌱 Carbon Footprint Calculator (app 2):
+# 🌱 Carbon Footprint Calculator:
 
 A Streamlit web app that calculates your **weekly carbon footprint** based on:
 
