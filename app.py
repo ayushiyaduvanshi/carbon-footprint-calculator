@@ -4,6 +4,21 @@ st.set_page_config(page_title="Carbon Footprint Calculator", page_icon="🌱")
 st.title("🌍 Carbon Footprint Calculator and Suggestions")
 
 st.markdown("""
+---
+### 🧠 What is Carbon Footprint?
+
+Your **carbon footprint** is the total amount of greenhouse gases — especially carbon dioxide (CO₂) — that are released into the atmosphere as a result of your daily activities.
+
+This includes:
+- 🚗 How much you travel by car, bus, or plane  
+- ⚡ How much electricity you use  
+- 🍽️ What kind of food you eat  
+
+A smaller carbon footprint means you're contributing less to climate change — and this app helps you **understand and reduce yours**!
+---
+""")
+
+st.markdown("""
 Estimate your **weekly carbon footprint** from:
 - 🚗 Travel (car, bus, flights)
 - ⚡ Electricity usage
