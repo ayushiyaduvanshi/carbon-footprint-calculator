@@ -13,7 +13,7 @@ This includes:
 - 🚗 How much you travel by car, bus, or plane  
 - ⚡ How much electricity you use  
 - 🍽️ What kind of food you eat  
-A smaller carbon footprint means you're contributing less to climate change — and this app helps you **understand and reduce yours**!
+- A smaller carbon footprint means you're contributing less to climate change — and this app helps you **understand and reduce yours**!
 ---
 """)
 
