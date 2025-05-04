@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(page_title="Carbon Footprint Calculator", page_icon="🌱")
-st.title("🌍 Carbon Footprint Calculator + Smart Suggestions")
+st.title("🌍 Carbon Footprint Calculator and Suggestions")
 
 st.markdown("""
 Estimate your **weekly carbon footprint** from:
