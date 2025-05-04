@@ -1,2 +1,3 @@
-openai
 streamlit
+openai
+python-dotenv  # only needed if you're using a .env file locally
