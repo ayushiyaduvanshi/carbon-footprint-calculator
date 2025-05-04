@@ -106,6 +106,6 @@ if st.button("Calculate My Carbon Footprint"):
     st.subheader("📉 Environmental Impact")
     st.markdown(f"**{impact_level}** — {message}")
 
-    st.markdown("### 💡Suggestions For You")
+    st.markdown("###  💡  Suggestions For You")
     for tip in suggestions:
         st.markdown(f"- {tip}")
